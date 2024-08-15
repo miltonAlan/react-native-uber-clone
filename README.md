@@ -18,7 +18,7 @@ Clon de Uber es una aplicación móvil moderna desarrollada utilizando React Nat
 | ![Vista previa 1](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture1.png "Vista previa 1") | ![Vista previa 2](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture2.png "Vista previa 2") |
 |:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
 | ![Vista previa 3](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture3.png "Vista previa 3") | ![Vista previa 4](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture4.png "Vista previa 4") |
-| ![Vista previa 5](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture5.png "Vista previa 5") | |
+| ![Vista previa 5](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture5.png "Vista previa 5") |
 
 
 
