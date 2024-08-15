@@ -15,19 +15,11 @@ Clon de Uber es una aplicación móvil moderna desarrollada utilizando React Nat
 
 ## Vista previa
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+| ![Vista previa 1](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture1.png "Vista previa 1") | ![Vista previa 2](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture2.png "Vista previa 2") |
+|:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
+| ![Vista previa 3](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture3.png "Vista previa 3") | ![Vista previa 4](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture4.png "Vista previa 4") |
+| ![Vista previa 5](https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture5.png "Vista previa 5") | |
 
-  <img src="https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture1.png" alt="Vista previa 1" title="Vista previa 1" style="width: 100%;"/>
-  
-  <img src="https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture2.png" alt="Vista previa 2" title="Vista previa 2" style="width: 100%;"/>
-  
-  <img src="https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture3.png" alt="Vista previa 3" title="Vista previa 3" style="width: 100%;"/>
-
-  <img src="https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture4.png" alt="Vista previa 4" title="Vista previa 4" style="width: 100%;"/>
-
-  <img src="https://raw.githubusercontent.com/miltonAlan/react-native-uber-clone/master/capture5.png" alt="Vista previa 5" title="Vista previa 5" style="width: 100%;"/>
-
-</div>
 
 
 ## Características del Proyecto
